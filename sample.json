@@ -1,0 +1,1905 @@
+{
+    "Strategy": {
+      "Direct_Auto": {"1":[{"ln_score":{"upper_limit":999,"lower_limit":731},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S2"}],
+      "2":[{"ln_score":{"upper_limit":999,"lower_limit":731},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "3":[{"ln_score":{"upper_limit":999,"lower_limit":731},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S3"}],
+      "4":[{"ln_score":{"upper_limit":999,"lower_limit":731},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S2"}],
+      "5":[{"ln_score":{"upper_limit":999,"lower_limit":731},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S2"}],
+      "6":[{"ln_score":{"upper_limit":999,"lower_limit":731},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S2"}],
+      "7":[{"ln_score":{"upper_limit":999,"lower_limit":731},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S1"}],
+      "8":[{"ln_score":{"upper_limit":999,"lower_limit":731},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S1"}],
+      "9":[{"ln_score":{"upper_limit":999,"lower_limit":731},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+      "10":[{"ln_score":{"upper_limit":730,"lower_limit":713},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S3"}],
+      "11":[{"ln_score":{"upper_limit":730,"lower_limit":713},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "12":[{"ln_score":{"upper_limit":730,"lower_limit":713},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S3"}],
+      "13":[{"ln_score":{"upper_limit":730,"lower_limit":713},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S3"}],
+      "14":[{"ln_score":{"upper_limit":730,"lower_limit":713},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S2"}],
+      "15":[{"ln_score":{"upper_limit":730,"lower_limit":713},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S2"}],
+      "16":[{"ln_score":{"upper_limit":730,"lower_limit":713},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S2"}],
+      "17":[{"ln_score":{"upper_limit":730,"lower_limit":713},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S2"}],
+      "18":[{"ln_score":{"upper_limit":730,"lower_limit":713},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+      "19":[{"ln_score":{"upper_limit":712,"lower_limit":698},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S3"}],
+      "20":[{"ln_score":{"upper_limit":712,"lower_limit":698},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "21":[{"ln_score":{"upper_limit":712,"lower_limit":698},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S4"}],
+      "22":[{"ln_score":{"upper_limit":712,"lower_limit":698},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S3"}],
+      "23":[{"ln_score":{"upper_limit":712,"lower_limit":698},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S3"}],
+      "24":[{"ln_score":{"upper_limit":712,"lower_limit":698},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S3"}],
+      "25":[{"ln_score":{"upper_limit":712,"lower_limit":698},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S3"}],
+      "26":[{"ln_score":{"upper_limit":712,"lower_limit":698},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S2"}],
+      "27":[{"ln_score":{"upper_limit":712,"lower_limit":698},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+      "28":[{"ln_score":{"upper_limit":697,"lower_limit":674},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S4"}],
+      "29":[{"ln_score":{"upper_limit":697,"lower_limit":674},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "30":[{"ln_score":{"upper_limit":697,"lower_limit":674},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S4"}],
+      "31":[{"ln_score":{"upper_limit":697,"lower_limit":674},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S4"}],
+      "32":[{"ln_score":{"upper_limit":697,"lower_limit":674},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S3"}],
+      "33":[{"ln_score":{"upper_limit":697,"lower_limit":674},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S3"}],
+      "34":[{"ln_score":{"upper_limit":697,"lower_limit":674},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S3"}],
+      "35":[{"ln_score":{"upper_limit":697,"lower_limit":674},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S3"}],
+      "36":[{"ln_score":{"upper_limit":697,"lower_limit":674},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+      "37":[{"ln_score":{"upper_limit":673,"lower_limit":655},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S5"}],
+      "38":[{"ln_score":{"upper_limit":673,"lower_limit":655},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "39":[{"ln_score":{"upper_limit":673,"lower_limit":655},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S6"}],
+      "40":[{"ln_score":{"upper_limit":673,"lower_limit":655},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S5"}],
+      "41":[{"ln_score":{"upper_limit":673,"lower_limit":655},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S5"}],
+      "42":[{"ln_score":{"upper_limit":673,"lower_limit":655},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S5"}],
+      "43":[{"ln_score":{"upper_limit":673,"lower_limit":655},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S5"}],
+      "44":[{"ln_score":{"upper_limit":673,"lower_limit":655},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S4"}],
+      "45":[{"ln_score":{"upper_limit":673,"lower_limit":655},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+      "46":[{"ln_score":{"upper_limit":654,"lower_limit":300},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S7"}],
+      "47":[{"ln_score":{"upper_limit":654,"lower_limit":300},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "48":[{"ln_score":{"upper_limit":654,"lower_limit":300},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S7"}],
+      "49":[{"ln_score":{"upper_limit":654,"lower_limit":300},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S7"}],
+      "50":[{"ln_score":{"upper_limit":654,"lower_limit":300},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S6"}],
+      "51":[{"ln_score":{"upper_limit":654,"lower_limit":300},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S6"}],
+      "52":[{"ln_score":{"upper_limit":654,"lower_limit":300},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S5"}],
+      "53":[{"ln_score":{"upper_limit":654,"lower_limit":300},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S5"}],
+      "54":[{"ln_score":{"upper_limit":654,"lower_limit":300},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+      "55":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S7"}],
+      "56":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "57":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S6"}],
+      "58":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S5"}],
+      "59":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S5"}],
+      "60":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S4"}],
+      "61":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S4"}],
+      "62":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S4"}],
+      "63":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}]
+
+      },
+      
+      "Indirect_Auto": {"1":[{"ln_score":{"upper_limit":999,"lower_limit":731},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S2"}],
+      "2":[{"ln_score":{"upper_limit":999,"lower_limit":731},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "3":[{"ln_score":{"upper_limit":999,"lower_limit":731},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S3"}],
+      "4":[{"ln_score":{"upper_limit":999,"lower_limit":731},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S2"}],
+      "5":[{"ln_score":{"upper_limit":999,"lower_limit":731},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S2"}],
+      "6":[{"ln_score":{"upper_limit":999,"lower_limit":731},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S2"}],
+      "7":[{"ln_score":{"upper_limit":999,"lower_limit":731},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S1"}],
+      "8":[{"ln_score":{"upper_limit":999,"lower_limit":731},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S1"}],
+      "9":[{"ln_score":{"upper_limit":999,"lower_limit":731},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+      "10":[{"ln_score":{"upper_limit":730,"lower_limit":713},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S3"}],
+      "11":[{"ln_score":{"upper_limit":730,"lower_limit":713},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "12":[{"ln_score":{"upper_limit":730,"lower_limit":713},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S3"}],
+      "13":[{"ln_score":{"upper_limit":730,"lower_limit":713},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S3"}],
+      "14":[{"ln_score":{"upper_limit":730,"lower_limit":713},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S2"}],
+      "15":[{"ln_score":{"upper_limit":730,"lower_limit":713},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S2"}],
+      "16":[{"ln_score":{"upper_limit":730,"lower_limit":713},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S2"}],
+      "17":[{"ln_score":{"upper_limit":730,"lower_limit":713},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S2"}],
+      "18":[{"ln_score":{"upper_limit":730,"lower_limit":713},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+      "19":[{"ln_score":{"upper_limit":712,"lower_limit":698},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S3"}],
+      "20":[{"ln_score":{"upper_limit":712,"lower_limit":698},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "21":[{"ln_score":{"upper_limit":712,"lower_limit":698},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S4"}],
+      "22":[{"ln_score":{"upper_limit":712,"lower_limit":698},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S3"}],
+      "23":[{"ln_score":{"upper_limit":712,"lower_limit":698},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S3"}],
+      "24":[{"ln_score":{"upper_limit":712,"lower_limit":698},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S3"}],
+      "25":[{"ln_score":{"upper_limit":712,"lower_limit":698},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S3"}],
+      "26":[{"ln_score":{"upper_limit":712,"lower_limit":698},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S2"}],
+      "27":[{"ln_score":{"upper_limit":712,"lower_limit":698},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+      "28":[{"ln_score":{"upper_limit":697,"lower_limit":674},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S4"}],
+      "29":[{"ln_score":{"upper_limit":697,"lower_limit":674},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "30":[{"ln_score":{"upper_limit":697,"lower_limit":674},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S4"}],
+      "31":[{"ln_score":{"upper_limit":697,"lower_limit":674},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S4"}],
+      "32":[{"ln_score":{"upper_limit":697,"lower_limit":674},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S3"}],
+      "33":[{"ln_score":{"upper_limit":697,"lower_limit":674},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S3"}],
+      "34":[{"ln_score":{"upper_limit":697,"lower_limit":674},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S3"}],
+      "35":[{"ln_score":{"upper_limit":697,"lower_limit":674},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S3"}],
+      "36":[{"ln_score":{"upper_limit":697,"lower_limit":674},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+      "37":[{"ln_score":{"upper_limit":673,"lower_limit":655},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S5"}],
+      "38":[{"ln_score":{"upper_limit":673,"lower_limit":655},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "39":[{"ln_score":{"upper_limit":673,"lower_limit":655},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S6"}],
+      "40":[{"ln_score":{"upper_limit":673,"lower_limit":655},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S5"}],
+      "41":[{"ln_score":{"upper_limit":673,"lower_limit":655},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S5"}],
+      "42":[{"ln_score":{"upper_limit":673,"lower_limit":655},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S5"}],
+      "43":[{"ln_score":{"upper_limit":673,"lower_limit":655},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S5"}],
+      "44":[{"ln_score":{"upper_limit":673,"lower_limit":655},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S4"}],
+      "45":[{"ln_score":{"upper_limit":673,"lower_limit":655},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+      "46":[{"ln_score":{"upper_limit":654,"lower_limit":300},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S7"}],
+      "47":[{"ln_score":{"upper_limit":654,"lower_limit":300},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "48":[{"ln_score":{"upper_limit":654,"lower_limit":300},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S7"}],
+      "49":[{"ln_score":{"upper_limit":654,"lower_limit":300},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S7"}],
+      "50":[{"ln_score":{"upper_limit":654,"lower_limit":300},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S6"}],
+      "51":[{"ln_score":{"upper_limit":654,"lower_limit":300},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S6"}],
+      "52":[{"ln_score":{"upper_limit":654,"lower_limit":300},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S5"}],
+      "53":[{"ln_score":{"upper_limit":654,"lower_limit":300},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S5"}],
+      "54":[{"ln_score":{"upper_limit":654,"lower_limit":300},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+      "55":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S7"}],
+      "56":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "57":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S6"}],
+      "58":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S5"}],
+      "59":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S5"}],
+      "60":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S4"}],
+      "61":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S4"}],
+      "62":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S4"}],
+      "63":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}]
+      },
+      "Personal_Loan": {"1":[{"ln_score":{"upper_limit":999,"lower_limit":721},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S3"}],
+      "2":[{"ln_score":{"upper_limit":999,"lower_limit":721},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "3":[{"ln_score":{"upper_limit":999,"lower_limit":721},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S3"}],
+      "4":[{"ln_score":{"upper_limit":999,"lower_limit":721},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S2"}],
+      "5":[{"ln_score":{"upper_limit":999,"lower_limit":721},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S2"}],
+      "6":[{"ln_score":{"upper_limit":999,"lower_limit":721},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S2"}],
+      "7":[{"ln_score":{"upper_limit":999,"lower_limit":721},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S1"}],
+      "8":[{"ln_score":{"upper_limit":999,"lower_limit":721},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S1"}],
+      "9":[{"ln_score":{"upper_limit":999,"lower_limit":721},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+      "10":[{"ln_score":{"upper_limit":720,"lower_limit":698},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S3"}],
+      "11":[{"ln_score":{"upper_limit":720,"lower_limit":698},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "12":[{"ln_score":{"upper_limit":720,"lower_limit":698},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S4"}],
+      "13":[{"ln_score":{"upper_limit":720,"lower_limit":698},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S4"}],
+      "14":[{"ln_score":{"upper_limit":720,"lower_limit":698},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S2"}],
+      "15":[{"ln_score":{"upper_limit":720,"lower_limit":698},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S2"}],
+      "16":[{"ln_score":{"upper_limit":720,"lower_limit":698},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S2"}],
+      "17":[{"ln_score":{"upper_limit":720,"lower_limit":698},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S2"}],
+      "18":[{"ln_score":{"upper_limit":720,"lower_limit":698},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+      "19":[{"ln_score":{"upper_limit":697,"lower_limit":683},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S4"}],
+      "20":[{"ln_score":{"upper_limit":697,"lower_limit":683},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "21":[{"ln_score":{"upper_limit":697,"lower_limit":683},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S5"}],
+      "22":[{"ln_score":{"upper_limit":697,"lower_limit":683},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S4"}],
+      "23":[{"ln_score":{"upper_limit":697,"lower_limit":683},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S3"}],
+      "24":[{"ln_score":{"upper_limit":697,"lower_limit":683},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S3"}],
+      "25":[{"ln_score":{"upper_limit":697,"lower_limit":683},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S2"}],
+      "26":[{"ln_score":{"upper_limit":697,"lower_limit":683},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S2"}],
+      "27":[{"ln_score":{"upper_limit":697,"lower_limit":683},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+      "28":[{"ln_score":{"upper_limit":682,"lower_limit":668},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S4"}],
+      "29":[{"ln_score":{"upper_limit":682,"lower_limit":668},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "30":[{"ln_score":{"upper_limit":682,"lower_limit":668},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S5"}],
+      "31":[{"ln_score":{"upper_limit":682,"lower_limit":668},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S4"}],
+      "32":[{"ln_score":{"upper_limit":682,"lower_limit":668},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S4"}],
+      "33":[{"ln_score":{"upper_limit":682,"lower_limit":668},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S4"}],
+      "34":[{"ln_score":{"upper_limit":682,"lower_limit":668},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S3"}],
+      "35":[{"ln_score":{"upper_limit":682,"lower_limit":668},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S2"}],
+      "36":[{"ln_score":{"upper_limit":682,"lower_limit":668},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+      "37":[{"ln_score":{"upper_limit":667,"lower_limit":656},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S5"}],
+      "38":[{"ln_score":{"upper_limit":667,"lower_limit":656},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "39":[{"ln_score":{"upper_limit":667,"lower_limit":656},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S6"}],
+      "40":[{"ln_score":{"upper_limit":667,"lower_limit":656},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S6"}],
+      "41":[{"ln_score":{"upper_limit":667,"lower_limit":656},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S5"}],
+      "42":[{"ln_score":{"upper_limit":667,"lower_limit":656},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S5"}],
+      "43":[{"ln_score":{"upper_limit":667,"lower_limit":656},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S4"}],
+      "44":[{"ln_score":{"upper_limit":667,"lower_limit":656},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S3"}],
+      "45":[{"ln_score":{"upper_limit":667,"lower_limit":656},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+      "46":[{"ln_score":{"upper_limit":655,"lower_limit":300},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S7"}],
+      "47":[{"ln_score":{"upper_limit":655,"lower_limit":300},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "48":[{"ln_score":{"upper_limit":655,"lower_limit":300},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S7"}],
+      "49":[{"ln_score":{"upper_limit":655,"lower_limit":300},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S7"}],
+      "50":[{"ln_score":{"upper_limit":655,"lower_limit":300},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S7"}],
+      "51":[{"ln_score":{"upper_limit":655,"lower_limit":300},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S6"}],
+      "52":[{"ln_score":{"upper_limit":655,"lower_limit":300},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S5"}],
+      "53":[{"ln_score":{"upper_limit":655,"lower_limit":300},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S5"}],
+      "54":[{"ln_score":{"upper_limit":655,"lower_limit":300},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+      "55":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S7"}],
+      "56":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+      "57":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S7"}],
+      "58":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S7"}],
+      "59":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S4"}],
+      "60":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S4"}],
+      "61":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S4"}],
+      "62":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S4"}],
+      "63":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}]
+      },
+      "Credit_Card": {"1":[{"ln_score":{"upper_limit":999,"lower_limit":721},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S3"}],
+        "2":[{"ln_score":{"upper_limit":999,"lower_limit":721},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+        "3":[{"ln_score":{"upper_limit":999,"lower_limit":721},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S3"}],
+        "4":[{"ln_score":{"upper_limit":999,"lower_limit":721},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S2"}],
+        "5":[{"ln_score":{"upper_limit":999,"lower_limit":721},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S2"}],
+        "6":[{"ln_score":{"upper_limit":999,"lower_limit":721},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S2"}],
+        "7":[{"ln_score":{"upper_limit":999,"lower_limit":721},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S1"}],
+        "8":[{"ln_score":{"upper_limit":999,"lower_limit":721},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S1"}],
+        "9":[{"ln_score":{"upper_limit":999,"lower_limit":721},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+        "10":[{"ln_score":{"upper_limit":720,"lower_limit":698},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S3"}],
+        "11":[{"ln_score":{"upper_limit":720,"lower_limit":698},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+        "12":[{"ln_score":{"upper_limit":720,"lower_limit":698},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S4"}],
+        "13":[{"ln_score":{"upper_limit":720,"lower_limit":698},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S4"}],
+        "14":[{"ln_score":{"upper_limit":720,"lower_limit":698},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S2"}],
+        "15":[{"ln_score":{"upper_limit":720,"lower_limit":698},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S2"}],
+        "16":[{"ln_score":{"upper_limit":720,"lower_limit":698},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S2"}],
+        "17":[{"ln_score":{"upper_limit":720,"lower_limit":698},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S2"}],
+        "18":[{"ln_score":{"upper_limit":720,"lower_limit":698},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+        "19":[{"ln_score":{"upper_limit":697,"lower_limit":683},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S4"}],
+        "20":[{"ln_score":{"upper_limit":697,"lower_limit":683},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+        "21":[{"ln_score":{"upper_limit":697,"lower_limit":683},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S5"}],
+        "22":[{"ln_score":{"upper_limit":697,"lower_limit":683},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S4"}],
+        "23":[{"ln_score":{"upper_limit":697,"lower_limit":683},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S3"}],
+        "24":[{"ln_score":{"upper_limit":697,"lower_limit":683},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S3"}],
+        "25":[{"ln_score":{"upper_limit":697,"lower_limit":683},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S2"}],
+        "26":[{"ln_score":{"upper_limit":697,"lower_limit":683},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S2"}],
+        "27":[{"ln_score":{"upper_limit":697,"lower_limit":683},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+        "28":[{"ln_score":{"upper_limit":682,"lower_limit":668},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S4"}],
+        "29":[{"ln_score":{"upper_limit":682,"lower_limit":668},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+        "30":[{"ln_score":{"upper_limit":682,"lower_limit":668},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S5"}],
+        "31":[{"ln_score":{"upper_limit":682,"lower_limit":668},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S4"}],
+        "32":[{"ln_score":{"upper_limit":682,"lower_limit":668},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S4"}],
+        "33":[{"ln_score":{"upper_limit":682,"lower_limit":668},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S4"}],
+        "34":[{"ln_score":{"upper_limit":682,"lower_limit":668},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S3"}],
+        "35":[{"ln_score":{"upper_limit":682,"lower_limit":668},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S2"}],
+        "36":[{"ln_score":{"upper_limit":682,"lower_limit":668},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+        "37":[{"ln_score":{"upper_limit":667,"lower_limit":656},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S5"}],
+        "38":[{"ln_score":{"upper_limit":667,"lower_limit":656},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+        "39":[{"ln_score":{"upper_limit":667,"lower_limit":656},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S6"}],
+        "40":[{"ln_score":{"upper_limit":667,"lower_limit":656},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S6"}],
+        "41":[{"ln_score":{"upper_limit":667,"lower_limit":656},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S5"}],
+        "42":[{"ln_score":{"upper_limit":667,"lower_limit":656},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S5"}],
+        "43":[{"ln_score":{"upper_limit":667,"lower_limit":656},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S4"}],
+        "44":[{"ln_score":{"upper_limit":667,"lower_limit":656},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S3"}],
+        "45":[{"ln_score":{"upper_limit":667,"lower_limit":656},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+        "46":[{"ln_score":{"upper_limit":655,"lower_limit":300},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S7"}],
+        "47":[{"ln_score":{"upper_limit":655,"lower_limit":300},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+        "48":[{"ln_score":{"upper_limit":655,"lower_limit":300},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S7"}],
+        "49":[{"ln_score":{"upper_limit":655,"lower_limit":300},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S7"}],
+        "50":[{"ln_score":{"upper_limit":655,"lower_limit":300},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S7"}],
+        "51":[{"ln_score":{"upper_limit":655,"lower_limit":300},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S6"}],
+        "52":[{"ln_score":{"upper_limit":655,"lower_limit":300},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S5"}],
+        "53":[{"ln_score":{"upper_limit":655,"lower_limit":300},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S5"}],
+        "54":[{"ln_score":{"upper_limit":655,"lower_limit":300},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}],
+        "55":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":299,"lower_limit":0},"grade":"S7"}],
+        "56":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":579,"lower_limit":300},"grade":"S7"}],
+        "57":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":619,"lower_limit":580},"grade":"S7"}],
+        "58":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":639,"lower_limit":620},"grade":"S7"}],
+        "59":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":659,"lower_limit":640},"grade":"S4"}],
+        "60":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":679,"lower_limit":660},"grade":"S4"}],
+        "61":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":709,"lower_limit":680},"grade":"S4"}],
+        "62":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":729,"lower_limit":710},"grade":"S4"}],
+        "63":[{"ln_score":{"upper_limit":299,"lower_limit":0},"fico_score":{"upper_limit":999,"lower_limit":730},"grade":"S1"}]
+        }
+    ,
+    "RV": {
+      "1": [
+        {
+          "ln_score": {
+            "upper_limit": 999,
+            "lower_limit": 731
+          },
+          "fico_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "grade": "S2"
+        }
+      ],
+      "2": [
+        {
+          "ln_score": {
+            "upper_limit": 999,
+            "lower_limit": 731
+          },
+          "fico_score": {
+            "upper_limit": 579,
+            "lower_limit": 300
+          },
+          "grade": "S7"
+        }
+      ],
+      "3": [
+        {
+          "ln_score": {
+            "upper_limit": 999,
+            "lower_limit": 731
+          },
+          "fico_score": {
+            "upper_limit": 619,
+            "lower_limit": 580
+          },
+          "grade": "S3"
+        }
+      ],
+      "4": [
+        {
+          "ln_score": {
+            "upper_limit": 999,
+            "lower_limit": 731
+          },
+          "fico_score": {
+            "upper_limit": 639,
+            "lower_limit": 620
+          },
+          "grade": "S2"
+        }
+      ],
+      "5": [
+        {
+          "ln_score": {
+            "upper_limit": 999,
+            "lower_limit": 731
+          },
+          "fico_score": {
+            "upper_limit": 659,
+            "lower_limit": 640
+          },
+          "grade": "S2"
+        }
+      ],
+      "6": [
+        {
+          "ln_score": {
+            "upper_limit": 999,
+            "lower_limit": 731
+          },
+          "fico_score": {
+            "upper_limit": 679,
+            "lower_limit": 660
+          },
+          "grade": "S2"
+        }
+      ],
+      "7": [
+        {
+          "ln_score": {
+            "upper_limit": 999,
+            "lower_limit": 731
+          },
+          "fico_score": {
+            "upper_limit": 709,
+            "lower_limit": 680
+          },
+          "grade": "S1"
+        }
+      ],
+      "8": [
+        {
+          "ln_score": {
+            "upper_limit": 999,
+            "lower_limit": 731
+          },
+          "fico_score": {
+            "upper_limit": 729,
+            "lower_limit": 710
+          },
+          "grade": "S1"
+        }
+      ],
+      "9": [
+        {
+          "ln_score": {
+            "upper_limit": 999,
+            "lower_limit": 731
+          },
+          "fico_score": {
+            "upper_limit": 999,
+            "lower_limit": 730
+          },
+          "grade": "S1"
+        }
+      ],
+      "10": [
+        {
+          "ln_score": {
+            "upper_limit": 730,
+            "lower_limit": 713
+          },
+          "fico_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "grade": "S3"
+        }
+      ],
+      "11": [
+        {
+          "ln_score": {
+            "upper_limit": 730,
+            "lower_limit": 713
+          },
+          "fico_score": {
+            "upper_limit": 579,
+            "lower_limit": 300
+          },
+          "grade": "S7"
+        }
+      ],
+      "12": [
+        {
+          "ln_score": {
+            "upper_limit": 730,
+            "lower_limit": 713
+          },
+          "fico_score": {
+            "upper_limit": 619,
+            "lower_limit": 580
+          },
+          "grade": "S3"
+        }
+      ],
+      "13": [
+        {
+          "ln_score": {
+            "upper_limit": 730,
+            "lower_limit": 713
+          },
+          "fico_score": {
+            "upper_limit": 639,
+            "lower_limit": 620
+          },
+          "grade": "S3"
+        }
+      ],
+      "14": [
+        {
+          "ln_score": {
+            "upper_limit": 730,
+            "lower_limit": 713
+          },
+          "fico_score": {
+            "upper_limit": 659,
+            "lower_limit": 640
+          },
+          "grade": "S2"
+        }
+      ],
+      "15": [
+        {
+          "ln_score": {
+            "upper_limit": 730,
+            "lower_limit": 713
+          },
+          "fico_score": {
+            "upper_limit": 679,
+            "lower_limit": 660
+          },
+          "grade": "S2"
+        }
+      ],
+      "16": [
+        {
+          "ln_score": {
+            "upper_limit": 730,
+            "lower_limit": 713
+          },
+          "fico_score": {
+            "upper_limit": 709,
+            "lower_limit": 680
+          },
+          "grade": "S2"
+        }
+      ],
+      "17": [
+        {
+          "ln_score": {
+            "upper_limit": 730,
+            "lower_limit": 713
+          },
+          "fico_score": {
+            "upper_limit": 729,
+            "lower_limit": 710
+          },
+          "grade": "S2"
+        }
+      ],
+      "18": [
+        {
+          "ln_score": {
+            "upper_limit": 730,
+            "lower_limit": 713
+          },
+          "fico_score": {
+            "upper_limit": 999,
+            "lower_limit": 730
+          },
+          "grade": "S1"
+        }
+      ],
+      "19": [
+        {
+          "ln_score": {
+            "upper_limit": 712,
+            "lower_limit": 698
+          },
+          "fico_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "grade": "S3"
+        }
+      ],
+      "20": [
+        {
+          "ln_score": {
+            "upper_limit": 712,
+            "lower_limit": 698
+          },
+          "fico_score": {
+            "upper_limit": 579,
+            "lower_limit": 300
+          },
+          "grade": "S7"
+        }
+      ],
+      "21": [
+        {
+          "ln_score": {
+            "upper_limit": 712,
+            "lower_limit": 698
+          },
+          "fico_score": {
+            "upper_limit": 619,
+            "lower_limit": 580
+          },
+          "grade": "S4"
+        }
+      ],
+      "22": [
+        {
+          "ln_score": {
+            "upper_limit": 712,
+            "lower_limit": 698
+          },
+          "fico_score": {
+            "upper_limit": 639,
+            "lower_limit": 620
+          },
+          "grade": "S3"
+        }
+      ],
+      "23": [
+        {
+          "ln_score": {
+            "upper_limit": 712,
+            "lower_limit": 698
+          },
+          "fico_score": {
+            "upper_limit": 659,
+            "lower_limit": 640
+          },
+          "grade": "S3"
+        }
+      ],
+      "24": [
+        {
+          "ln_score": {
+            "upper_limit": 712,
+            "lower_limit": 698
+          },
+          "fico_score": {
+            "upper_limit": 679,
+            "lower_limit": 660
+          },
+          "grade": "S3"
+        }
+      ],
+      "25": [
+        {
+          "ln_score": {
+            "upper_limit": 712,
+            "lower_limit": 698
+          },
+          "fico_score": {
+            "upper_limit": 709,
+            "lower_limit": 680
+          },
+          "grade": "S3"
+        }
+      ],
+      "26": [
+        {
+          "ln_score": {
+            "upper_limit": 712,
+            "lower_limit": 698
+          },
+          "fico_score": {
+            "upper_limit": 729,
+            "lower_limit": 710
+          },
+          "grade": "S2"
+        }
+      ],
+      "27": [
+        {
+          "ln_score": {
+            "upper_limit": 712,
+            "lower_limit": 698
+          },
+          "fico_score": {
+            "upper_limit": 999,
+            "lower_limit": 730
+          },
+          "grade": "S1"
+        }
+      ],
+      "28": [
+        {
+          "ln_score": {
+            "upper_limit": 697,
+            "lower_limit": 674
+          },
+          "fico_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "grade": "S4"
+        }
+      ],
+      "29": [
+        {
+          "ln_score": {
+            "upper_limit": 697,
+            "lower_limit": 674
+          },
+          "fico_score": {
+            "upper_limit": 579,
+            "lower_limit": 300
+          },
+          "grade": "S7"
+        }
+      ],
+      "30": [
+        {
+          "ln_score": {
+            "upper_limit": 697,
+            "lower_limit": 674
+          },
+          "fico_score": {
+            "upper_limit": 619,
+            "lower_limit": 580
+          },
+          "grade": "S4"
+        }
+      ],
+      "31": [
+        {
+          "ln_score": {
+            "upper_limit": 697,
+            "lower_limit": 674
+          },
+          "fico_score": {
+            "upper_limit": 639,
+            "lower_limit": 620
+          },
+          "grade": "S4"
+        }
+      ],
+      "32": [
+        {
+          "ln_score": {
+            "upper_limit": 697,
+            "lower_limit": 674
+          },
+          "fico_score": {
+            "upper_limit": 659,
+            "lower_limit": 640
+          },
+          "grade": "S3"
+        }
+      ],
+      "33": [
+        {
+          "ln_score": {
+            "upper_limit": 697,
+            "lower_limit": 674
+          },
+          "fico_score": {
+            "upper_limit": 679,
+            "lower_limit": 660
+          },
+          "grade": "S3"
+        }
+      ],
+      "34": [
+        {
+          "ln_score": {
+            "upper_limit": 697,
+            "lower_limit": 674
+          },
+          "fico_score": {
+            "upper_limit": 709,
+            "lower_limit": 680
+          },
+          "grade": "S3"
+        }
+      ],
+      "35": [
+        {
+          "ln_score": {
+            "upper_limit": 697,
+            "lower_limit": 674
+          },
+          "fico_score": {
+            "upper_limit": 729,
+            "lower_limit": 710
+          },
+          "grade": "S3"
+        }
+      ],
+      "36": [
+        {
+          "ln_score": {
+            "upper_limit": 697,
+            "lower_limit": 674
+          },
+          "fico_score": {
+            "upper_limit": 999,
+            "lower_limit": 730
+          },
+          "grade": "S1"
+        }
+      ],
+      "37": [
+        {
+          "ln_score": {
+            "upper_limit": 673,
+            "lower_limit": 655
+          },
+          "fico_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "grade": "S5"
+        }
+      ],
+      "38": [
+        {
+          "ln_score": {
+            "upper_limit": 673,
+            "lower_limit": 655
+          },
+          "fico_score": {
+            "upper_limit": 579,
+            "lower_limit": 300
+          },
+          "grade": "S7"
+        }
+      ],
+      "39": [
+        {
+          "ln_score": {
+            "upper_limit": 673,
+            "lower_limit": 655
+          },
+          "fico_score": {
+            "upper_limit": 619,
+            "lower_limit": 580
+          },
+          "grade": "S6"
+        }
+      ],
+      "40": [
+        {
+          "ln_score": {
+            "upper_limit": 673,
+            "lower_limit": 655
+          },
+          "fico_score": {
+            "upper_limit": 639,
+            "lower_limit": 620
+          },
+          "grade": "S5"
+        }
+      ],
+      "41": [
+        {
+          "ln_score": {
+            "upper_limit": 673,
+            "lower_limit": 655
+          },
+          "fico_score": {
+            "upper_limit": 659,
+            "lower_limit": 640
+          },
+          "grade": "S5"
+        }
+      ],
+      "42": [
+        {
+          "ln_score": {
+            "upper_limit": 673,
+            "lower_limit": 655
+          },
+          "fico_score": {
+            "upper_limit": 679,
+            "lower_limit": 660
+          },
+          "grade": "S5"
+        }
+      ],
+      "43": [
+        {
+          "ln_score": {
+            "upper_limit": 673,
+            "lower_limit": 655
+          },
+          "fico_score": {
+            "upper_limit": 709,
+            "lower_limit": 680
+          },
+          "grade": "S5"
+        }
+      ],
+      "44": [
+        {
+          "ln_score": {
+            "upper_limit": 673,
+            "lower_limit": 655
+          },
+          "fico_score": {
+            "upper_limit": 729,
+            "lower_limit": 710
+          },
+          "grade": "S4"
+        }
+      ],
+      "45": [
+        {
+          "ln_score": {
+            "upper_limit": 673,
+            "lower_limit": 655
+          },
+          "fico_score": {
+            "upper_limit": 999,
+            "lower_limit": 730
+          },
+          "grade": "S1"
+        }
+      ],
+      "46": [
+        {
+          "ln_score": {
+            "upper_limit": 654,
+            "lower_limit": 300
+          },
+          "fico_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "grade": "S7"
+        }
+      ],
+      "47": [
+        {
+          "ln_score": {
+            "upper_limit": 654,
+            "lower_limit": 300
+          },
+          "fico_score": {
+            "upper_limit": 579,
+            "lower_limit": 300
+          },
+          "grade": "S7"
+        }
+      ],
+      "48": [
+        {
+          "ln_score": {
+            "upper_limit": 654,
+            "lower_limit": 300
+          },
+          "fico_score": {
+            "upper_limit": 619,
+            "lower_limit": 580
+          },
+          "grade": "S7"
+        }
+      ],
+      "49": [
+        {
+          "ln_score": {
+            "upper_limit": 654,
+            "lower_limit": 300
+          },
+          "fico_score": {
+            "upper_limit": 639,
+            "lower_limit": 620
+          },
+          "grade": "S7"
+        }
+      ],
+      "50": [
+        {
+          "ln_score": {
+            "upper_limit": 654,
+            "lower_limit": 300
+          },
+          "fico_score": {
+            "upper_limit": 659,
+            "lower_limit": 640
+          },
+          "grade": "S6"
+        }
+      ],
+      "51": [
+        {
+          "ln_score": {
+            "upper_limit": 654,
+            "lower_limit": 300
+          },
+          "fico_score": {
+            "upper_limit": 679,
+            "lower_limit": 660
+          },
+          "grade": "S6"
+        }
+      ],
+      "52": [
+        {
+          "ln_score": {
+            "upper_limit": 654,
+            "lower_limit": 300
+          },
+          "fico_score": {
+            "upper_limit": 709,
+            "lower_limit": 680
+          },
+          "grade": "S5"
+        }
+      ],
+      "53": [
+        {
+          "ln_score": {
+            "upper_limit": 654,
+            "lower_limit": 300
+          },
+          "fico_score": {
+            "upper_limit": 729,
+            "lower_limit": 710
+          },
+          "grade": "S5"
+        }
+      ],
+      "54": [
+        {
+          "ln_score": {
+            "upper_limit": 654,
+            "lower_limit": 300
+          },
+          "fico_score": {
+            "upper_limit": 999,
+            "lower_limit": 730
+          },
+          "grade": "S1"
+        }
+      ],
+      "55": [
+        {
+          "ln_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "fico_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "grade": "S7"
+        }
+      ],
+      "56": [
+        {
+          "ln_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "fico_score": {
+            "upper_limit": 579,
+            "lower_limit": 300
+          },
+          "grade": "S7"
+        }
+      ],
+      "57": [
+        {
+          "ln_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "fico_score": {
+            "upper_limit": 619,
+            "lower_limit": 580
+          },
+          "grade": "S6"
+        }
+      ],
+      "58": [
+        {
+          "ln_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "fico_score": {
+            "upper_limit": 639,
+            "lower_limit": 620
+          },
+          "grade": "S5"
+        }
+      ],
+      "59": [
+        {
+          "ln_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "fico_score": {
+            "upper_limit": 659,
+            "lower_limit": 640
+          },
+          "grade": "S5"
+        }
+      ],
+      "60": [
+        {
+          "ln_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "fico_score": {
+            "upper_limit": 679,
+            "lower_limit": 660
+          },
+          "grade": "S4"
+        }
+      ],
+      "61": [
+        {
+          "ln_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "fico_score": {
+            "upper_limit": 709,
+            "lower_limit": 680
+          },
+          "grade": "S4"
+        }
+      ],
+      "62": [
+        {
+          "ln_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "fico_score": {
+            "upper_limit": 729,
+            "lower_limit": 710
+          },
+          "grade": "S4"
+        }
+      ],
+      "63": [
+        {
+          "ln_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "fico_score": {
+            "upper_limit": 999,
+            "lower_limit": 730
+          },
+          "grade": "S1"
+        }
+      ]
+    },
+    "Toys": {
+      "1": [
+        {
+          "ln_score": {
+            "upper_limit": 999,
+            "lower_limit": 731
+          },
+          "fico_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "grade": "S2"
+        }
+      ],
+      "2": [
+        {
+          "ln_score": {
+            "upper_limit": 999,
+            "lower_limit": 731
+          },
+          "fico_score": {
+            "upper_limit": 579,
+            "lower_limit": 300
+          },
+          "grade": "S7"
+        }
+      ],
+      "3": [
+        {
+          "ln_score": {
+            "upper_limit": 999,
+            "lower_limit": 731
+          },
+          "fico_score": {
+            "upper_limit": 619,
+            "lower_limit": 580
+          },
+          "grade": "S3"
+        }
+      ],
+      "4": [
+        {
+          "ln_score": {
+            "upper_limit": 999,
+            "lower_limit": 731
+          },
+          "fico_score": {
+            "upper_limit": 639,
+            "lower_limit": 620
+          },
+          "grade": "S2"
+        }
+      ],
+      "5": [
+        {
+          "ln_score": {
+            "upper_limit": 999,
+            "lower_limit": 731
+          },
+          "fico_score": {
+            "upper_limit": 659,
+            "lower_limit": 640
+          },
+          "grade": "S2"
+        }
+      ],
+      "6": [
+        {
+          "ln_score": {
+            "upper_limit": 999,
+            "lower_limit": 731
+          },
+          "fico_score": {
+            "upper_limit": 679,
+            "lower_limit": 660
+          },
+          "grade": "S2"
+        }
+      ],
+      "7": [
+        {
+          "ln_score": {
+            "upper_limit": 999,
+            "lower_limit": 731
+          },
+          "fico_score": {
+            "upper_limit": 709,
+            "lower_limit": 680
+          },
+          "grade": "S1"
+        }
+      ],
+      "8": [
+        {
+          "ln_score": {
+            "upper_limit": 999,
+            "lower_limit": 731
+          },
+          "fico_score": {
+            "upper_limit": 729,
+            "lower_limit": 710
+          },
+          "grade": "S1"
+        }
+      ],
+      "9": [
+        {
+          "ln_score": {
+            "upper_limit": 999,
+            "lower_limit": 731
+          },
+          "fico_score": {
+            "upper_limit": 999,
+            "lower_limit": 730
+          },
+          "grade": "S1"
+        }
+      ],
+      "10": [
+        {
+          "ln_score": {
+            "upper_limit": 730,
+            "lower_limit": 713
+          },
+          "fico_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "grade": "S3"
+        }
+      ],
+      "11": [
+        {
+          "ln_score": {
+            "upper_limit": 730,
+            "lower_limit": 713
+          },
+          "fico_score": {
+            "upper_limit": 579,
+            "lower_limit": 300
+          },
+          "grade": "S7"
+        }
+      ],
+      "12": [
+        {
+          "ln_score": {
+            "upper_limit": 730,
+            "lower_limit": 713
+          },
+          "fico_score": {
+            "upper_limit": 619,
+            "lower_limit": 580
+          },
+          "grade": "S3"
+        }
+      ],
+      "13": [
+        {
+          "ln_score": {
+            "upper_limit": 730,
+            "lower_limit": 713
+          },
+          "fico_score": {
+            "upper_limit": 639,
+            "lower_limit": 620
+          },
+          "grade": "S3"
+        }
+      ],
+      "14": [
+        {
+          "ln_score": {
+            "upper_limit": 730,
+            "lower_limit": 713
+          },
+          "fico_score": {
+            "upper_limit": 659,
+            "lower_limit": 640
+          },
+          "grade": "S2"
+        }
+      ],
+      "15": [
+        {
+          "ln_score": {
+            "upper_limit": 730,
+            "lower_limit": 713
+          },
+          "fico_score": {
+            "upper_limit": 679,
+            "lower_limit": 660
+          },
+          "grade": "S2"
+        }
+      ],
+      "16": [
+        {
+          "ln_score": {
+            "upper_limit": 730,
+            "lower_limit": 713
+          },
+          "fico_score": {
+            "upper_limit": 709,
+            "lower_limit": 680
+          },
+          "grade": "S2"
+        }
+      ],
+      "17": [
+        {
+          "ln_score": {
+            "upper_limit": 730,
+            "lower_limit": 713
+          },
+          "fico_score": {
+            "upper_limit": 729,
+            "lower_limit": 710
+          },
+          "grade": "S2"
+        }
+      ],
+      "18": [
+        {
+          "ln_score": {
+            "upper_limit": 730,
+            "lower_limit": 713
+          },
+          "fico_score": {
+            "upper_limit": 999,
+            "lower_limit": 730
+          },
+          "grade": "S1"
+        }
+      ],
+      "19": [
+        {
+          "ln_score": {
+            "upper_limit": 712,
+            "lower_limit": 698
+          },
+          "fico_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "grade": "S3"
+        }
+      ],
+      "20": [
+        {
+          "ln_score": {
+            "upper_limit": 712,
+            "lower_limit": 698
+          },
+          "fico_score": {
+            "upper_limit": 579,
+            "lower_limit": 300
+          },
+          "grade": "S7"
+        }
+      ],
+      "21": [
+        {
+          "ln_score": {
+            "upper_limit": 712,
+            "lower_limit": 698
+          },
+          "fico_score": {
+            "upper_limit": 619,
+            "lower_limit": 580
+          },
+          "grade": "S4"
+        }
+      ],
+      "22": [
+        {
+          "ln_score": {
+            "upper_limit": 712,
+            "lower_limit": 698
+          },
+          "fico_score": {
+            "upper_limit": 639,
+            "lower_limit": 620
+          },
+          "grade": "S3"
+        }
+      ],
+      "23": [
+        {
+          "ln_score": {
+            "upper_limit": 712,
+            "lower_limit": 698
+          },
+          "fico_score": {
+            "upper_limit": 659,
+            "lower_limit": 640
+          },
+          "grade": "S3"
+        }
+      ],
+      "24": [
+        {
+          "ln_score": {
+            "upper_limit": 712,
+            "lower_limit": 698
+          },
+          "fico_score": {
+            "upper_limit": 679,
+            "lower_limit": 660
+          },
+          "grade": "S3"
+        }
+      ],
+      "25": [
+        {
+          "ln_score": {
+            "upper_limit": 712,
+            "lower_limit": 698
+          },
+          "fico_score": {
+            "upper_limit": 709,
+            "lower_limit": 680
+          },
+          "grade": "S3"
+        }
+      ],
+      "26": [
+        {
+          "ln_score": {
+            "upper_limit": 712,
+            "lower_limit": 698
+          },
+          "fico_score": {
+            "upper_limit": 729,
+            "lower_limit": 710
+          },
+          "grade": "S2"
+        }
+      ],
+      "27": [
+        {
+          "ln_score": {
+            "upper_limit": 712,
+            "lower_limit": 698
+          },
+          "fico_score": {
+            "upper_limit": 999,
+            "lower_limit": 730
+          },
+          "grade": "S1"
+        }
+      ],
+      "28": [
+        {
+          "ln_score": {
+            "upper_limit": 697,
+            "lower_limit": 674
+          },
+          "fico_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "grade": "S4"
+        }
+      ],
+      "29": [
+        {
+          "ln_score": {
+            "upper_limit": 697,
+            "lower_limit": 674
+          },
+          "fico_score": {
+            "upper_limit": 579,
+            "lower_limit": 300
+          },
+          "grade": "S7"
+        }
+      ],
+      "30": [
+        {
+          "ln_score": {
+            "upper_limit": 697,
+            "lower_limit": 674
+          },
+          "fico_score": {
+            "upper_limit": 619,
+            "lower_limit": 580
+          },
+          "grade": "S4"
+        }
+      ],
+      "31": [
+        {
+          "ln_score": {
+            "upper_limit": 697,
+            "lower_limit": 674
+          },
+          "fico_score": {
+            "upper_limit": 639,
+            "lower_limit": 620
+          },
+          "grade": "S4"
+        }
+      ],
+      "32": [
+        {
+          "ln_score": {
+            "upper_limit": 697,
+            "lower_limit": 674
+          },
+          "fico_score": {
+            "upper_limit": 659,
+            "lower_limit": 640
+          },
+          "grade": "S3"
+        }
+      ],
+      "33": [
+        {
+          "ln_score": {
+            "upper_limit": 697,
+            "lower_limit": 674
+          },
+          "fico_score": {
+            "upper_limit": 679,
+            "lower_limit": 660
+          },
+          "grade": "S3"
+        }
+      ],
+      "34": [
+        {
+          "ln_score": {
+            "upper_limit": 697,
+            "lower_limit": 674
+          },
+          "fico_score": {
+            "upper_limit": 709,
+            "lower_limit": 680
+          },
+          "grade": "S3"
+        }
+      ],
+      "35": [
+        {
+          "ln_score": {
+            "upper_limit": 697,
+            "lower_limit": 674
+          },
+          "fico_score": {
+            "upper_limit": 729,
+            "lower_limit": 710
+          },
+          "grade": "S3"
+        }
+      ],
+      "36": [
+        {
+          "ln_score": {
+            "upper_limit": 697,
+            "lower_limit": 674
+          },
+          "fico_score": {
+            "upper_limit": 999,
+            "lower_limit": 730
+          },
+          "grade": "S1"
+        }
+      ],
+      "37": [
+        {
+          "ln_score": {
+            "upper_limit": 673,
+            "lower_limit": 655
+          },
+          "fico_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "grade": "S5"
+        }
+      ],
+      "38": [
+        {
+          "ln_score": {
+            "upper_limit": 673,
+            "lower_limit": 655
+          },
+          "fico_score": {
+            "upper_limit": 579,
+            "lower_limit": 300
+          },
+          "grade": "S7"
+        }
+      ],
+      "39": [
+        {
+          "ln_score": {
+            "upper_limit": 673,
+            "lower_limit": 655
+          },
+          "fico_score": {
+            "upper_limit": 619,
+            "lower_limit": 580
+          },
+          "grade": "S6"
+        }
+      ],
+      "40": [
+        {
+          "ln_score": {
+            "upper_limit": 673,
+            "lower_limit": 655
+          },
+          "fico_score": {
+            "upper_limit": 639,
+            "lower_limit": 620
+          },
+          "grade": "S5"
+        }
+      ],
+      "41": [
+        {
+          "ln_score": {
+            "upper_limit": 673,
+            "lower_limit": 655
+          },
+          "fico_score": {
+            "upper_limit": 659,
+            "lower_limit": 640
+          },
+          "grade": "S5"
+        }
+      ],
+      "42": [
+        {
+          "ln_score": {
+            "upper_limit": 673,
+            "lower_limit": 655
+          },
+          "fico_score": {
+            "upper_limit": 679,
+            "lower_limit": 660
+          },
+          "grade": "S5"
+        }
+      ],
+      "43": [
+        {
+          "ln_score": {
+            "upper_limit": 673,
+            "lower_limit": 655
+          },
+          "fico_score": {
+            "upper_limit": 709,
+            "lower_limit": 680
+          },
+          "grade": "S5"
+        }
+      ],
+      "44": [
+        {
+          "ln_score": {
+            "upper_limit": 673,
+            "lower_limit": 655
+          },
+          "fico_score": {
+            "upper_limit": 729,
+            "lower_limit": 710
+          },
+          "grade": "S4"
+        }
+      ],
+      "45": [
+        {
+          "ln_score": {
+            "upper_limit": 673,
+            "lower_limit": 655
+          },
+          "fico_score": {
+            "upper_limit": 999,
+            "lower_limit": 730
+          },
+          "grade": "S1"
+        }
+      ],
+      "46": [
+        {
+          "ln_score": {
+            "upper_limit": 654,
+            "lower_limit": 300
+          },
+          "fico_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "grade": "S7"
+        }
+      ],
+      "47": [
+        {
+          "ln_score": {
+            "upper_limit": 654,
+            "lower_limit": 300
+          },
+          "fico_score": {
+            "upper_limit": 579,
+            "lower_limit": 300
+          },
+          "grade": "S7"
+        }
+      ],
+      "48": [
+        {
+          "ln_score": {
+            "upper_limit": 654,
+            "lower_limit": 300
+          },
+          "fico_score": {
+            "upper_limit": 619,
+            "lower_limit": 580
+          },
+          "grade": "S7"
+        }
+      ],
+      "49": [
+        {
+          "ln_score": {
+            "upper_limit": 654,
+            "lower_limit": 300
+          },
+          "fico_score": {
+            "upper_limit": 639,
+            "lower_limit": 620
+          },
+          "grade": "S7"
+        }
+      ],
+      "50": [
+        {
+          "ln_score": {
+            "upper_limit": 654,
+            "lower_limit": 300
+          },
+          "fico_score": {
+            "upper_limit": 659,
+            "lower_limit": 640
+          },
+          "grade": "S6"
+        }
+      ],
+      "51": [
+        {
+          "ln_score": {
+            "upper_limit": 654,
+            "lower_limit": 300
+          },
+          "fico_score": {
+            "upper_limit": 679,
+            "lower_limit": 660
+          },
+          "grade": "S6"
+        }
+      ],
+      "52": [
+        {
+          "ln_score": {
+            "upper_limit": 654,
+            "lower_limit": 300
+          },
+          "fico_score": {
+            "upper_limit": 709,
+            "lower_limit": 680
+          },
+          "grade": "S5"
+        }
+      ],
+      "53": [
+        {
+          "ln_score": {
+            "upper_limit": 654,
+            "lower_limit": 300
+          },
+          "fico_score": {
+            "upper_limit": 729,
+            "lower_limit": 710
+          },
+          "grade": "S5"
+        }
+      ],
+      "54": [
+        {
+          "ln_score": {
+            "upper_limit": 654,
+            "lower_limit": 300
+          },
+          "fico_score": {
+            "upper_limit": 999,
+            "lower_limit": 730
+          },
+          "grade": "S1"
+        }
+      ],
+      "55": [
+        {
+          "ln_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "fico_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "grade": "S7"
+        }
+      ],
+      "56": [
+        {
+          "ln_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "fico_score": {
+            "upper_limit": 579,
+            "lower_limit": 300
+          },
+          "grade": "S7"
+        }
+      ],
+      "57": [
+        {
+          "ln_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "fico_score": {
+            "upper_limit": 619,
+            "lower_limit": 580
+          },
+          "grade": "S6"
+        }
+      ],
+      "58": [
+        {
+          "ln_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "fico_score": {
+            "upper_limit": 639,
+            "lower_limit": 620
+          },
+          "grade": "S5"
+        }
+      ],
+      "59": [
+        {
+          "ln_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "fico_score": {
+            "upper_limit": 659,
+            "lower_limit": 640
+          },
+          "grade": "S5"
+        }
+      ],
+      "60": [
+        {
+          "ln_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "fico_score": {
+            "upper_limit": 679,
+            "lower_limit": 660
+          },
+          "grade": "S4"
+        }
+      ],
+      "61": [
+        {
+          "ln_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "fico_score": {
+            "upper_limit": 709,
+            "lower_limit": 680
+          },
+          "grade": "S4"
+        }
+      ],
+      "62": [
+        {
+          "ln_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "fico_score": {
+            "upper_limit": 729,
+            "lower_limit": 710
+          },
+          "grade": "S4"
+        }
+      ],
+      "63": [
+        {
+          "ln_score": {
+            "upper_limit": 299,
+            "lower_limit": 0
+          },
+          "fico_score": {
+            "upper_limit": 999,
+            "lower_limit": 730
+          },
+          "grade": "S1"
+        }
+      ]
+    }
+    }
+}
